@@ -36,6 +36,9 @@ https://blog.sprov.xyz/2019/02/09/sprov-ui/
 ![1.png](1.png)
 ![2.png](2.png)
 
+![https://github.com/kil-x/sprov-ui/blob/master/1.png](1.png)
+![https://github.com/kil-x/sprov-ui/blob/master/2.png](2.png)
+
 # 支持的系统
 
 > 务必使用纯净版的系统，建议在 256MB 内存及以上的 vps 搭建，低内存情况下可能运作不良
@@ -53,12 +56,12 @@ https://blog.sprov.xyz/2019/02/09/sprov-ui/
 > 请务必使用 root 用户运行！
 
 ```
-wget -O /usr/bin/sprov-ui -N --no-check-certificate https://download.o2oyc.com/seedc/sprov-ui/blob/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
+wget -O /usr/bin/sprov-ui -N --no-check-certificate https://download.o2oyc.com/kil-x/sprov-ui/blob/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
 
 ```
 或
 ```
-wget -O /usr/bin/sprov-ui -N --no-check-certificate https://raw.githubusercontent.com/seedc/sprov-ui/master/install.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
+wget -O /usr/bin/sprov-ui -N --no-check-certificate https://raw.githubusercontent.com/kil-x/sprov-ui/master/install.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
 
 ```
 # 常见问题
