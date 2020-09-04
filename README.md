@@ -36,9 +36,6 @@ https://blog.sprov.xyz/2019/02/09/sprov-ui/
 ![1.png](1.png)
 ![2.png](2.png)
 
-![https://github.com/kil-x/sprov-ui/blob/master/1.png](1.png)
-![https://github.com/kil-x/sprov-ui/blob/master/2.png](2.png)
-
 # 支持的系统
 
 > 务必使用纯净版的系统，建议在 256MB 内存及以上的 vps 搭建，低内存情况下可能运作不良
